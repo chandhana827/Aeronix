@@ -1,0 +1,8 @@
+{
+  "name": "Aeronix - Airport Ground Operations Assistant",
+  "description": "An intelligent assistant designed to help airport passengers navigate ground operations with real-time voice and visual guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
